@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "InfoController.viewDidAppear(Bool) -&gt; ():InfoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "downPicker.UIControl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoController.dp_Selected(AnyObject) -&gt; ():InfoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.langChoice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoController.viewDidLoad() -&gt; ():InfoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.langChoice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainController.viewWillAppear(Bool) -&gt; ():MainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.langChoice">
+            </PersistentString>
+            <PersistentString
+               value = "lastLang">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DownPicker initWithTextField:withData:]:DownPicker.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tf.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoController.viewWillDisappear(Bool) -&gt; ():InfoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.langChoice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
